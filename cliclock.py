@@ -59,7 +59,7 @@ while True:
         last_levl_update = time.time()
     
     print(centered_ascii)
-    print("Heute ist ➪ ", Back.LIGHTGREEN_EX + Fore.BLACK + timevar, Style.RESET_ALL + "\n")
+    print("Today is ➪ ", Back.LIGHTGREEN_EX + Fore.BLACK + timevar, Style.RESET_ALL + "\n")
    
         # LEVL VARIABLE PRINTING
 
